@@ -25,8 +25,8 @@ Adafruit_MPU6050 mpu;
 #define PB1 26
 #define PB2 27
 #define buzzerPin 14
-#define BOTtoken "6160010187:AAHN-Dawu1AHF4gbd1Y_WeFmP2tDjbSFFnU"
-#define CHAT_ID "833966104"
+#define BOTtoken "API TOKEN"
+#define CHAT_ID "CHATID"
 
 
 
